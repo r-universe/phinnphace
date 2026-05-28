@@ -5,3 +5,6 @@
 [submodule "geoDeltaAudit"]
 	path = geoDeltaAudit
 	url = https://github.com/phinnphace/geodeltaaudit
+[submodule "shellgame"]
+	path = shellgame
+	url = https://github.com/phinnphace/shellgame
